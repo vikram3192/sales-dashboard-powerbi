@@ -16,8 +16,7 @@ This project showcases a simple and interactive e-commerce sales dashboard built
 
 ## 📸 Dashboard Preview
 
-![Dashboard screenshot](<img width="1362" height="728" alt="sales-dashboard" src="https://github.com/user-attachments/assets/dd63bef5-04a9-457d-b4a6-0e15259084f0" />
-)
+![Dashboard screenshot](sales-dashboard.png)
 
 ## 📊 Tools Used
 
