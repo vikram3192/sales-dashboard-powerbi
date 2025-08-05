@@ -12,11 +12,12 @@ This project showcases a simple and interactive e-commerce sales dashboard built
 
 ## 📁 File
 
-- `ecommerce_sales_dashboard.pbix` – Power BI dashboard file
+- `ecommerce_sales_dashboard.pbit` – Power BI dashboard file
 
 ## 📸 Dashboard Preview
 
-*(You can upload and insert a screenshot here later)*
+![Dashboard screenshot](<img width="1362" height="728" alt="sales-dashboard" src="https://github.com/user-attachments/assets/dd63bef5-04a9-457d-b4a6-0e15259084f0" />
+)
 
 ## 📊 Tools Used
 
